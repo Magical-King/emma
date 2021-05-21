@@ -7,7 +7,7 @@
     <parent>
         <artifactId>emma-parent</artifactId>
         <groupId>io.universe.emma</groupId>
-        <version>${emma.version}</version>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>emma-core</artifactId>

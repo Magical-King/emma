@@ -11,7 +11,7 @@
 
     <groupId>io.universe.emma</groupId>
     <artifactId>emma-parent</artifactId>
-    <version>${emma.version}</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -22,7 +22,6 @@
     </modules>
 
     <properties>
-        <emma.version>0.0.1-SNAPSHOT</emma.version>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
